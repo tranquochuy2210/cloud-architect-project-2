@@ -1,0 +1,10 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+Increased Cost Estimate,US East (N. Virginia),,Amazon EC2,0,1580.88,18970.56,USD,"Operating system (Linux), Quantity (8), Pricing strategy (EC2 Instance Savings Plans  ), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (a1.4xlarge)"
+Increased Cost Estimate,US East (N. Virginia),,Amazon EC2,0,2906.56,34878.72,USD,"Operating system (Linux), Quantity (8), Pricing strategy (EC2 Instance Savings Plans  ), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (m5.4xlarge)"
+Increased Cost Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,66.16,793.92,USD,Number of NAT Gateways (2)
+Increased Cost Estimate,US East (N. Virginia),,Amazon RDS for MySQL,0,5639.996,67679.95,USD,"Quantity (3), Pricing strategy (Standard Reserved Instances  ), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (2 TB), Instance type (db.m5.4xlarge), Additional backup storage (4 TB)"
+Increased Cost Estimate,US East (N. Virginia),,Amazon Route 53,0,435.1,5221.20,USD,"Hosted Zones (1), Number of Elastic Network Interfaces (2)"
+Increased Cost Estimate,US East (N. Virginia),,Elastic Load Balancing,0,422.18,5066.16,USD,Number of Application Load Balancers (2)
+Increased Cost Estimate,US East (N. Virginia),,S3 Intelligent - Tiering,0,321.73,3860.76,USD,S3 INT storage (9 TB per month)
+Increased Cost Estimate,US East (N. Virginia),,S3 Glacier,0,2267.64,27211.68,USD,S3 Glacier storage (90 TB per month)
+Increased Cost Estimate,US East (N. Virginia),,AWS Data Transfer,0,4403.11,52837.32,USD,"Data Transfer, Data transfer cost (4403.11)"
